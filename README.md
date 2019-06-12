@@ -10,6 +10,6 @@ This folder contains the project backend
 
 This folder contains the project frontend 
 
-##mobile
+## mobile
 
 This folder contains the mobile application
