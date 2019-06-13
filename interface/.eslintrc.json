@@ -23,6 +23,11 @@
       { "extensions": [".js", ".jsx"] }
     ],
     "import/prefer-default-export": "off",
-    "react/jsx-one-expression-per-line": "off"
+    "react/jsx-one-expression-per-line": "off",
+    "no-underscore-dangle": "off",
+    "react/jsx-max-props-per-line": [
+      "error",
+      { "maximum": 2, "when": "always" }
+    ]
   }
 }
