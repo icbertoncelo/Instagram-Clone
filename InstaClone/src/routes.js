@@ -16,7 +16,7 @@ const Routes = createAppContainer(
     {
       defaultNavigationOptions: {
         headerTitle: <Image
-          style={{ marginHorizontal: 120 }}
+          style={{ marginLeft: 120 }}
           source={Logo}
         />,
         headerBackTitle: null,
