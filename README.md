@@ -10,6 +10,6 @@ This folder contains the project backend
 
 This folder contains the project frontend 
 
-## mobile
+## InstaClone
 
 This folder contains the mobile application
